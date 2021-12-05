@@ -949,42 +949,42 @@ progress {
 
   .col-sm-5 {
     flex: 0 0 auto;
-    width: 33,3%;;
+    width: 33.33333333%;
   }
 
   .col-sm-6 {
     flex: 0 0 auto;
-    width: 33,3%;
+    width: 33.33333333%;
   }
 
   .col-sm-7 {
     flex: 0 0 auto;
-    width: 33,3%;;
+    width: 33.33333333%;
   }
 
   .col-sm-8 {
     flex: 0 0 auto;
-    width: 66.66666667%;
+    width: 33.33333333%;
   }
 
   .col-sm-9 {
     flex: 0 0 auto;
-    width: 75%;
+    width: 33.33333333%;
   }
 
   .col-sm-10 {
     flex: 0 0 auto;
-    width: 83.33333333%;
+    width: 33.33333333%;
   }
 
   .col-sm-11 {
     flex: 0 0 auto;
-    width: 91.66666667%;
+    width: 33.33333333%;
   }
 
   .col-sm-12 {
     flex: 0 0 auto;
-    width: 100%;
+    width: 33.33333333%;
   }
 
   .offset-sm-0 {
